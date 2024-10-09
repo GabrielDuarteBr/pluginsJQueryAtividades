@@ -28,9 +28,8 @@ $(document).ready(function() {
             telefone: {
                 required: true,
             },
-            endereço: {
+            endereco: {
                 required: true,
-                endress: true,
             },
             cep: {
                 required: true,
